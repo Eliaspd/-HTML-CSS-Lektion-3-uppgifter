@@ -1,0 +1,24 @@
+
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: chartreuse;
+}
+
+footer {
+    color: red;
+    background-color: black;
+}
+
+.kontaktuppgifter {
+    color: palegreen;
+    background-color: blueviolet;
+}
+
+#text {
+    color: hotpink;
+    background-color: blue;
+}
